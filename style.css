@@ -1,0 +1,16 @@
+#title {
+    background-color: #4e73d1;
+}
+
+.container-fluid{
+    padding: 5% 15%;
+}
+  
+
+h1 {
+    /* font-size: 60px; */
+    font-family: 'Mitr', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
